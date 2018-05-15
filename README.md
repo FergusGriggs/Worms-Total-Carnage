@@ -10,5 +10,5 @@ A clone of the classic game: worms
 - time
 - os
 - random
-##Note:
+## Note:
 although the option for multiplayer exists on the main menu, it currently serves no purpose. :/
